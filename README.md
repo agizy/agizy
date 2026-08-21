@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=agizy&show_icons=true&count_private=true&line_height=20" height="158px" align="center" />
+    <img src="https://github-stats-extended.vercel.app/api?username=agizy&show_icons=true&count_private=true&line_height=20&theme=catppuccin_latte" height="158px" align="center" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=agizy&layout=compact" height="158px" align="center" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=agizy&layout=compact&theme=catppuccin_latte" height="158px" align="center" />
   </a>
 </div>
 
