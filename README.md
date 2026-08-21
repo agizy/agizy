@@ -8,6 +8,12 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=agizy&theme=default" align="center" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agizy&theme=default" width="270px" align="center" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
