@@ -16,9 +16,6 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agizy&theme=default" width="270px" align="center" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agizy&theme=default&utcOffset=3" width="270px" align="center" />
-  </a>
 </div>
 
 ---
