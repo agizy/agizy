@@ -23,14 +23,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=agizy&column=8&no-frame=true&margin-w=5" align="center" />
-  </a>
-</div>
-
----
-
 ## Hi there! 👋
 
 I am a Flutter, C++, C# and Python developer. I make games, art and mobile apps.
