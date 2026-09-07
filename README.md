@@ -21,7 +21,7 @@
 
 I am a Flutter, C++, C# and Python developer. I make games, art and mobile apps.
 
-I enjoy designing complete systems — from shared design systems to app architecture — and building mobile apps with Flutter.
+I love putting together full systems, from design systems to app architecture, and I have a lot of fun building mobile apps with Flutter.
 
 ## My skills
 
