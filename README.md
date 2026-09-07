@@ -34,4 +34,4 @@ I enjoy designing complete systems — from shared design systems to app archite
 
 ## Get in touch
 
-- https://github.com/agizy
+- thebattlingjack@gmail.com
